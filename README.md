@@ -2,11 +2,11 @@
 
 This is an update to the [Quiz_app](https://github.com/requiredcrx/Quiz_game)
 
-# WHat's New:
+# What's New:
 - Terminal based interaction has been retired with GUI using the Tkinter Module
 - The question data has been retired with an API response call from OPENTDB
 - More interaction on the UI
-- The canvas changes color to match the mood whether or not the question is right.
+- The canvas changes color to match the mood whether or not the answer is right.
 
 ## Note
 The question are mainly from computer science category, Feel free to change the response type from OPENTDB api call.
